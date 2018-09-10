@@ -1,0 +1,5 @@
+example_id                          | status | run_time        |
+----------------------------------- | ------ | --------------- |
+./spec/active_locale_spec.rb[1:1]   | passed | 0.00117 seconds |
+./spec/active_locale_spec.rb[1:2:1] | passed | 0.00543 seconds |
+./spec/active_locale_spec.rb[1:2:2] | passed | 0.00027 seconds |
